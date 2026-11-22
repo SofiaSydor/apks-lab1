@@ -1,0 +1,13 @@
+{
+  "name": "hello-js",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/hello.js",
+    "build": "node scripts/build.js",
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
